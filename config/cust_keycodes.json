@@ -1,1 +1,36 @@
-[]
+[
+	{
+		"names": [
+			"&kp LS(LC(LA(LGUI)))"
+		],
+		"description": "&kp LS(LC(LA(LGUI)))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	},
+	{
+		"names": [
+			"&kp RS(RC(RA(RGUI)))"
+		],
+		"description": "&kp RS(RC(RA(RGUI)))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
